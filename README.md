@@ -4,8 +4,9 @@
 [![Render Pipeline](https://img.shields.io/badge/Render%20Pipeline-URP%202D-blue)](https://unity.com/features/srp/universal-render-pipeline)
 [![Language](https://img.shields.io/badge/Language-C%23-239120?logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Platform](https://img.shields.io/badge/Platform-PC%20%7C%20Android-green)](https://unity.com/)
+[![Type](https://img.shields.io/badge/Project-School%20Project-orange)](https://github.com/Edyboziron/cafecraft)
 
-**Cafe Craft** is a cozy, engaging 2D cafe management and crafting simulation game developed for a Game Jam. Step into the shoes of a barista and cafe owner: serve incoming customers, craft personalized coffee recipes with precision, earn tips, unlock new upgrades, and expand your coffee shop!
+**Cafe Craft** is a cozy, engaging 2D cafe management and crafting simulation game developed as a school project. Step into the shoes of a barista and cafe owner: serve incoming customers, craft personalized coffee recipes with precision, earn tips, unlock new upgrades, and expand your coffee shop!
 
 ---
 
@@ -109,4 +110,4 @@ Assets/
 
 ---
 
-*Developed as a Game Jam project.*
+*Developed as a school project.*
